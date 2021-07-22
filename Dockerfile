@@ -1,1 +1,1 @@
-FROM ghcr.io/banzaicloud/cruise-control:2.5.37
+FROM ghcr.io/banzaicloud/jmx-javaagent:0.15.0
