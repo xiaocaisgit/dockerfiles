@@ -1,1 +1,1 @@
-FROM ghcr.io/banzaicloud/jmx-javaagent:0.15.0
+FROM docker.elastic.co/logstash/logstash:7.13.4
