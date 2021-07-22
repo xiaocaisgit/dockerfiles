@@ -1,1 +1,1 @@
-FROM docker.elastic.co/kibana/kibana:7.13.4
+FROM docker.elastic.co/logstash/logstash:7.13.4
