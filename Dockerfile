@@ -1,1 +1,1 @@
-FROM docker.elastic.co/logstash/logstash:7.13.4
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/controller:v0.27.2
