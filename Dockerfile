@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/base@sha256:aa4fd987555ea10e1a4ec8765da8158b5ffdfef1e72da512c7ede509bc9966c4
+FROM gcr.io/tekton-releases/github.com/tektoncd/dashboard/cmd/dashboard@sha256:81c6e5343eba03333b3bc7bbee2977090daf559d550ae22e570b9d1e1e52c471
